@@ -1,0 +1,13 @@
+org\bankApplication\dao\BankRepository.class
+org\bankApplication\model\Customer.class
+org\bankApplication\intializer\WebAppInitializer.class
+org\bankApplication\intializer\SecurityWebAppInitializer.class
+org\bankApplication\model\BankBranch.class
+org\bankApplication\service\CustomerService.class
+org\bankApplication\config\SecurityConfig.class
+org\bankApplication\config\HibernateConfig.class
+org\bankApplication\controller\BankController.class
+org\bankApplication\service\BankService.class
+org\bankApplication\dao\CustomerRepository.class
+org\bankApplication\controller\CustomerController.class
+org\bankApplication\config\WebConfig.class
